@@ -2,4 +2,4 @@
 
 ## Challenge front-end mentor simples com HTML e CSS
 
-### Deploy:
+### Deploy: https://nft-preview-card-lac.vercel.app/
